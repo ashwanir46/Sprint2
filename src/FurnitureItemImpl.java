@@ -5,7 +5,7 @@ public class FurnitureItemImpl {
         FurnitureItem obj;
         //here is the initialization
         obj = new FurnitureItem();
-
+        // print
         System.out.println("obj.furnitureType = " + obj.furnitureType);
         System.out.println("obj.furnitureCode = " + obj.furnitureCode);
         System.out.println("obj.furnitureGrade = " + obj.furnitureGrade);
